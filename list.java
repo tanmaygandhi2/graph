@@ -1,5 +1,5 @@
 import java.util.*;
-
+//adjacencylist in java for graph data structure
 class list
 {
     static void add(ArrayList<ArrayList<Integer>> adj, int u,int v){
