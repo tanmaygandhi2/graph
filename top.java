@@ -1,5 +1,5 @@
 import java.util.*;
-
+// topological sort using adjacency list as a representation of graph.
 public class top {
     int vertex;
     LinkedList<Integer> adj[];
